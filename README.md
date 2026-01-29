@@ -1,5 +1,5 @@
 # Sales-Exploratory-Data-Analysis
-A six step SQL unpacking of sales data:
+A six step unpacking of sales data in SQL:
 
 1. Database Exploration
 
